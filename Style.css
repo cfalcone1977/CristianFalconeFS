@@ -1,0 +1,25 @@
+h1, h2{
+    color:coral;
+  }
+p{
+    color:red;
+    font-family: fantasy;
+    font-size: 150%;
+    font-weight: bolder;
+    font-style: italic;
+    text-align:center;
+ }
+p.amarillo{
+    color:yellow;
+}
+#rosa{
+    color:rgb(218, 123, 123);
+}
+img{
+    width: 300px;
+    height: auto;  
+    margin: 40mm;
+}
+body{
+        background-image: url(https://ciencia.nasa.gov/wp-content/uploads/sites/2/2024/05/screenshot-2024-05-09-at-4-51-54%E2%80%AFpm.png?w=1280&format=webp);
+}
